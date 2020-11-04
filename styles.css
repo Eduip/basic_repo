@@ -1,0 +1,143 @@
+#fondo {
+    width: 970px;
+}
+
+#cabecera {
+    width: 970px;
+    height: 400px;
+    background-color: steelblue;
+}
+
+#cabecera-cabecera {
+    width: 970px;
+}
+
+#cabecera-cabecera-derecha {
+    width: 450px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#cabecera-cabecera-izquierda {
+    width: 450px;
+    height: 100px;
+    display: inline-block;
+    text-align: right;
+}
+
+#cabecera-cabecera-izquierda-arriba {
+    width: 400px;
+    height: 50px;
+    display: inline-block;
+}
+
+#cabecera-cabecera-izquierda-abajo {
+    width: 270px;
+    height: 30px;
+    display: inline-block;
+    background-color: grey;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+}
+
+#cabecera-cuerpo {
+    width: 730px;
+    border-radius: 8px;
+    margin-left: 120px;
+    text-align: center;
+}
+
+ul.b {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: royalblue;
+    border-radius: 8px;
+}
+
+li.bb {
+    float: left;
+}
+
+li.bb a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.bb a:hover {
+    background-color: #111;
+}
+
+#cabecera-pie {
+    width: 960px;
+    height: 200px;
+}
+
+#cabecera-pie-derecha {
+    width: 300px;
+    height: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+li.cc {
+    list-style-type: square;
+    text-align: center;
+    color: white;
+    list-style-position: inside
+}
+
+li.cc a {
+    color: white;
+}
+
+#cabecera-pie-izquierda {
+    width: 650px;
+    height: 250px;
+    display: inline-block;
+    text-align: center;
+    color: white;
+}
+
+li.dd {
+    color: yellow;
+    list-style-type: none
+}
+
+#cuerpo {
+    width: 960px;
+    text-align: center;
+}
+
+li.e {
+    color: skyblue;
+}
+
+.cuerpo-cuerpo {
+    width: 470px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+z {
+    font-size: small;
+    color: skyblue;
+}
+
+#pie {
+    width: 970px;
+    background-color: steelblue;
+    text-align: center;
+    color: skyblue
+}
+
+.pie-pie {
+    width: 310px;
+    display: inline-block;
+}
